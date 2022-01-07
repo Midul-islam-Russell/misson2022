@@ -137,7 +137,46 @@ h2.my_mission {
     float: right;
 }
 
+.log_fro{
+    margin: 0 auto;
+    width: 20%;
+    text-align: center;
+    margin-top: 120px;
+    background-color: rgb(140, 207, 207);
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.log_fro h2{
+    font-size: 35px;
+    color: #FF5959;
+ text-transform: uppercase;
+}
+label{
+    font-size: 25px;
+    color: rgb(59, 59, 63);
+}
 
+input#fname {
+    font-size: 17px;
+    border: unset;
+}
+input#lname {
+    font-size: 17px;
+    border: unset;
+}
+input#email {
+    font-size: 18px;
+    border: unset;
+}
+
+input[type="password"] {
+    font-size: 17px;
+    border: unset;
+}
+input[type="number"] {
+    font-size: 17px;
+    border: unset;
+}
 
 /* ---------footer---------- */
 footer{
